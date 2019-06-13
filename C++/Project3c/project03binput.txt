@@ -1,0 +1,10 @@
+Microwave   M3562  GeneralPool   35   175.00   0.1
+Microwave   M1231  Sharp         16   139.00   0.15
+Microwave   M4219  Oster         12    75.00   0.0
+Microwave   M3172  Whirlpool     4    269.00   0.1
+Microwave   M2171  SamSung       18   249.00   0.1
+Microwave   M3712  HamiltonBeach 10    39.00   0.0
+Dishwasher  D2122  Kenmore        6   569.00   0.15
+Dishwasher  D2128  Kenmore        8   619.00   0.1
+Dishwasher  D3344  Frigidaire     5   525.00   0.1
+Dishwasher  D1197  Bosch          2   735.00   0.2
